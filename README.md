@@ -1,2 +1,2 @@
 # os_algos
-fcfs and preemptive algorithms 
+fcfs and preemptive scheduling algorithms 
